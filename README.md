@@ -120,4 +120,15 @@ The simulation proceeds year-by-year according to the formulas below.
 -   **No General Equilibrium Effects:** The model does not account for how changes in energy prices or dividend payments might affect overall economic growth, inflation, or employment.
 
 ## How to Contribute
-Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements, new features, or bug fixes. 
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements, new features, or bug fixes.
+
+## References
+
+The default parameters and conceptual framework for this model are based on data and proposals from the following sources:
+
+*   **Emissions Data:** U.S. Energy Information Administration, [State-Level Energy-Related Carbon Dioxide Emissions](https://fred.stlouisfed.org/series/EMISSCO2ENNA).
+*   **Population Data:** [World Population Review, Massachusetts Population](https://www.worldpopulationreview.com/states/massachusetts-population).
+*   **Legislative Precedent:** Prior Massachusetts carbon pricing bills, such as [H.2810 (191st Session)](https://malegislature.gov/Bills/191/H2810) and other proposals from Sen. Mike Barrett's office.
+*   **Universal Dividend Concept:** The model for a permanent fund paying a universal income is based on the [Alaska Permanent Fund](https://pfd.alaska.gov/).
+*   **Advocacy and Research:** Analysis from regional climate organizations like [Climate XChange](https://climate-xchange.org/) and the [Acadia Center](https://acadiacenter.org/). 
