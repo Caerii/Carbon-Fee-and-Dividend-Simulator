@@ -2,6 +2,8 @@
 
 This is an interactive application for simulating the financial impacts of a state-level carbon fee and dividend policy in Massachusetts. It is designed for policymakers, advocates, and the public to explore how different policy designs affect state revenue, greenhouse gas emissions, and household dividends.
 
+This project is hosted on GitHub: [https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator](https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator)
+
 The simulation is built with Python using the Streamlit library.
 
 ## Table of Contents
@@ -24,8 +26,8 @@ To run this application on your local machine, follow these steps:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator.git
+    cd Carbon-Fee-and-Dividend-Simulator
     ```
 
 3.  **Install Dependencies:** The required packages are listed in `requirements.txt`. Install them using pip:

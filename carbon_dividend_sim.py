@@ -7,6 +7,9 @@ financial impacts of a carbon fee and dividend policy in Massachusetts.
 It allows users to adjust various policy parameters and see the projected
 effects on state revenue, GHG emissions, and household dividends in real-time.
 
+The source code and full documentation are available at:
+https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator
+
 For a full explanation of the policy concepts, model assumptions, and
 mathematical formulas, please refer to the README.md file.
 """
